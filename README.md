@@ -1,10 +1,5 @@
 # PowerBI_Project
 Superstore Dashboard
 
-
-Things I have learnt while building this dashboard are:
- -Getting data into Power BI and navigating through Power BI.
- -Preparing different kind of visuals, charts and reports.
- -Cleaning the data in power query editor by removing unnecessary rows, renaming columns etc.
- - Appending and merging of two tables. Building relationships between tables.
- -Formatting the report page and visuals created.
+Dataset consisted of order details, product details, category details, shipment details. Edited the data in power query. 
+Created relationship between the tables and drawn insights using different graphs and charts.
